@@ -90,7 +90,7 @@ HMS/
         String username = "yourUsername";
         String password = "yourPassword";
 
-3.**Add Libraries to Classpath**
+ 3. **Add Libraries to Classpath**
 
         Add rs2xml.jar and mssql-jdbc-12.10.0.jre11.jar from the lib/ folder to your project classpath
 
