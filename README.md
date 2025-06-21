@@ -102,7 +102,6 @@ HMS/
 
 📸 Screenshots
 ![Screenshot 2025-06-16 202920](https://github.com/user-attachments/assets/760e73fe-861f-472d-9713-8c4671c25460)
-![Screenshot 2025-06-16 202901](https://github.com/user-attachments/assets/073cb383-e7fd-446f-a0fa-0e271f0d2d48)
 ![Screenshot 2025-06-16 203851](https://github.com/user-attachments/assets/3e6ab6b1-82a0-4612-ad98-bcb89d4f747f)
 ![Screenshot 2025-06-16 203824](https://github.com/user-attachments/assets/1b29bd56-6c69-4f5b-852f-5784cd82f402)
 ![Screenshot 2025-06-16 203758](https://github.com/user-attachments/assets/5e5d0370-9cc2-48cd-8ffb-3c51e1a08d00)
