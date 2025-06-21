@@ -84,7 +84,7 @@ HMS/
 
         Import the database schema (.sql file) into your SQL Server instance
 
-        Open DB_Connection.java and update the database URL, username, and password:
+        Open Conn.java and update the database URL, username, and password:
 
         String url = "jdbc:sqlserver://localhost:1433;databaseName=HospitalDB";
         String username = "yourUsername";
